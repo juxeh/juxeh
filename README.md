@@ -1,4 +1,5 @@
 ### Hi there 👋
+I'm currently pursuing a Master's degree in Applied Mathematics with a focus on Scientific Computation and Mathematics of Innovation.
 
 <!--
 **juxeh/juxeh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
